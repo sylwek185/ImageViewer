@@ -21,7 +21,7 @@ namespace WpfApplication1
     {
         public Window1()
         {
-            InitializeComponent();
+            InitializeComponent(w);
         }
     }
 }
